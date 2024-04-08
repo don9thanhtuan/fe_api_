@@ -1,3 +1,4 @@
+//gửi các yêu cầu HTTP đến máy chủ backend (Nhận JSON từ backend)
 import axios from "axios"
 
 export const axiosJWT = axios.create()
